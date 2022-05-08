@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cake app new</string>
+    <string name="add_Item">Add Cakes</string>
+    <string name="item_name">Item Name:</string>
+    <string name="item_type">Item Type:</string>
+    <string name="item_price">Item Price:</string>
+    <string name="submit">Submit</string>
+    <string name="itemCode">Item Code</string>
+    <string name="edit_items" />
+</resources>
